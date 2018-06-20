@@ -1,6 +1,6 @@
 # write your method here
 def crazy_strings
+crazy_strings ("hello","friends").upcase
 
-def crazy_stngs(a,b)
-ri
 end
+crazy_strings
