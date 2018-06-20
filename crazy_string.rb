@@ -4,3 +4,4 @@ crazy_strings ("hello").upcase
 
 end
 crazy_strings
+
